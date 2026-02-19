@@ -6,7 +6,8 @@ Title:  Marketing Performance Dashboard
 
 ## Project Overview:
 
-This project presents an interactive Marketing & Sales Performance Dashboard built in Google Sheets. It analyzes how advertising spend, discounts, pricing strategy, and competition impact revenue and profitability across brands, regions, and categories.
+This project presents an interactive Marketing & Sales Performance Dashboard built in Google Sheets. 
+It analyzes how advertising spend, discounts, pricing strategy, and competition impact revenue and profitability across brands, regions, and categories.
 The dashboard is designed to help business stakeholders quickly identify high-performing campaigns, risky ad spend, and profitability drivers.
 
 
