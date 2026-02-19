@@ -31,7 +31,7 @@ The dashboard is designed to help business stakeholders quickly identify high-pe
 ![Dashboard Preview](docs/dashboard_preview1.png)
 
 ## Live Dashboard:
- [View Interactive Dashboard](Sales_Marketing_Performance)
+ [View Interactive Dashboard](https://docs.google.com/spreadsheets/d/1X7jfrCjxCMKsMBqbSjGeTLTrxaED4TahZSG_ygfddoE/edit?usp=sharing)
 
 ## Data & Methodology:
 
